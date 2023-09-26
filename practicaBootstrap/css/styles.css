@@ -1,0 +1,27 @@
+.body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(144, 221, 221);
+}
+.navbar {
+    background-color: rgb(35, 119, 174);
+    color: white;
+}
+.navbar-brand {
+    color: white;
+    font-style: italic;
+}
+.container {
+    margin-top: 20px;
+}
+.primeraSeccion {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.card > img {
+    max-height: 350px;
+}
+.image_sec2 {
+    max-width: 100%;
+    max-height: 400px;
+}
